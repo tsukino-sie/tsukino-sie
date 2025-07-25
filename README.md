@@ -22,7 +22,7 @@ you'll grow stronger and become a better version of yourself than you were yeste
 
 ## ❓ Got Questions?
 
-Feel free to hit me up on **Discord**: `dduri8674`  
+Feel free to hit me up on **Discord**: `tsukino_sie`  
 (Same ID here on **GitHub**! 😉)
 
 ---
