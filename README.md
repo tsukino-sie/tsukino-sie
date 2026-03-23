@@ -14,7 +14,8 @@ you'll grow stronger and become a better version of yourself than you were yeste
 
 ## 💻 My Favorite Languages
 
-- **JavaScript**  
+- **JavaScript**
+- **Kotlin**
 - **C**  
 - **C++**
 
